@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+
+#container{
+    width: 80%;
+    margin:auto;
+}
+
+#header tr td a{
+    margin: 10px;
+    font-size:20px;
+    color: green;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: yellow;
+    text-align: center;
+}
+
+h3{
+    color: yellowgreen;
+}
+
+.urun{
+    width: 20%;
+    display: block;
+    margin: auto;
+}
+.urunbaslik{
+    margin: 20px 0;
+    /* list-style: none; */
+    list-style-position: inside;
+    font-weight: 500;
+    font-size: 16px;
+}
